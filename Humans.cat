@@ -1,0 +1,1926 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<catalogue id="917bf707-9a86-08e2-96dc-65c0a4e4c977" revision="1" gameSystemId="fab00512-5cec-20cc-6d0e-b135c99bd7f6" gameSystemRevision="1" battleScribeVersion="1.14b" name="Humans" books="Mars Attacks the Miniatures Game: World War" authorName="Moobs" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+  <entries>
+    <entry id="98860037-94db-b1bc-c96e-0fee888e660f" name="Agent Jack Falco" points="39.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="efd98be8-c82f-ce47-5b37-01134ff1720c" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Agent Jack Falco" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="2+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="55726f81-edf2-bd50-5b8a-a9e4ebef1c9c" targetId="f2b301b8-7839-3345-288c-d7d2b3e685a4" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="9994e3a4-d21c-7070-88e1-11fd6a49b31a" name="Agent Natalya El" points="28.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="87864eda-d451-d892-d9ea-28c875035b97" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Agent Natalya El" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="3+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-4"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="1d782be3-753c-94fb-e3da-70d57d1fd916" targetId="9b78d68e-efa9-e445-f3e0-6c82cfb6de40" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="7d8622b5-ca5e-2d61-cf37-cb308dd6bbe8" targetId="b6cb9dfc-930e-9212-3f41-bb43645c5d53" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="a3543d85-6ac1-369a-57ff-738ea7914ea5" name="Agents Jack Falco &amp; Natalya El Combo" points="65.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="0" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="93902ad7-bef4-78e2-594a-55dfae475242" name="Agent Jack Falco" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="20464caa-3744-9e00-0f9c-b5ff297542fe" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Agent Jack Falco" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="2+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="9db182a1-2471-1ce2-94f6-9a6cf7c72897" targetId="f2b301b8-7839-3345-288c-d7d2b3e685a4" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="ca3113f1-7573-9b08-59b1-1bc9b834ce90" name="Agent Natalya El" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="7d98ab98-701b-2248-e36d-4ee1354f9919" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Agent Natalya El" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="3+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-4"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="140a405a-1982-6e92-f432-5c9ca9de8cde" targetId="9b78d68e-efa9-e445-f3e0-6c82cfb6de40" linkType="rule">
+              <modifiers/>
+            </link>
+            <link id="85226b77-5667-28c4-8c9a-4eeb0971f233" targetId="b6cb9dfc-930e-9212-3f41-bb43645c5d53" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="set" field="maxInRoster" value="1.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="and">
+              <conditions>
+                <condition parentId="roster" childId="e811de62-4ef5-06ad-345a-871b1323ddfb" field="selections" type="at least" value="4.0"/>
+              </conditions>
+              <conditionGroups>
+                <conditionGroup type="or">
+                  <conditions>
+                    <condition parentId="roster" childId="ecc3ef2d-4142-928e-eb8c-57d6bb5df154" field="selections" type="at least" value="1.0"/>
+                    <condition parentId="roster" childId="9b3c18a1-9bbd-6420-8b83-10d6c0fb1865" field="selections" type="at least" value="1.0"/>
+                    <condition parentId="roster" childId="e811de62-4ef5-06ad-345a-871b1323ddfb" field="selections" type="at least" value="5.0"/>
+                  </conditions>
+                  <conditionGroups/>
+                </conditionGroup>
+              </conditionGroups>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+        <modifier type="set" field="maxInRoster" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups>
+            <conditionGroup type="or">
+              <conditions>
+                <condition parentId="roster" childId="98860037-94db-b1bc-c96e-0fee888e660f" field="selections" type="equal to" value="1.0"/>
+                <condition parentId="roster" childId="9994e3a4-d21c-7070-88e1-11fd6a49b31a" field="selections" type="equal to" value="1.0"/>
+              </conditions>
+              <conditionGroups/>
+            </conditionGroup>
+          </conditionGroups>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="8b9bd5ed-11d5-d198-27b1-95afc7aec570" name="Ashley" points="23.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="443e5d0a-3e2c-a01f-dca5-19e8ade3b92e" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Ashley" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-4"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="f409da7f-da93-0a9f-445f-7b3c80abc461" targetId="a926005c-d348-1a30-f8a8-d41f2764c652" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="e4716c0d-7b6b-cc88-beb6-8f67fa071c49" targetId="b6cb9dfc-930e-9212-3f41-bb43645c5d53" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="8b12ff7b-d1d7-046f-e533-8d1f2a764935" name="Barnabus" points="13.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="set" field="maxInRoster" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="02a7d462-d915-5d42-ee9a-c940a7a9fe66" field="selections" type="at least" value="1.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="6437b30e-6030-4ec8-fb78-10189ec503d0" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Barnabus" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="1"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="5097039f-09f8-cc6c-10c2-dfd74ba9d05d" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="71e3c7f1-9d2e-6f30-70d3-532fb5e2ab05" name="Blaine" points="27.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="96334a60-9b81-7e50-bf6e-d2ec72ccfaa1" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Blaine" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="3+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-3"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="d849ab76-b2a7-6454-dabc-2d11fcedbc26" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="ec2f1bde-9972-992d-5224-a39210fbad8b" targetId="757b2728-7418-ff66-73ef-84d20c796af0" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="bc8cff78-5b12-c247-1908-42c3ed45b7db" name="Buck Spencer" points="38.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="379b3cc8-a037-0ad2-1ec5-5304b9be5adc" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Buck Spencer" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="3+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-4"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="f82af300-c7f3-fb7e-189b-aa93b7d28e76" targetId="7b498a8a-c1ab-cc34-0854-e9a25edbe3ac" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="4eafb58f-9041-6bb7-d7ef-751b00db3189" targetId="01076573-77f0-9139-43ff-6a44a3c5d941" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="9c773ea5-fbe4-dabe-f255-2245244011ec" targetId="a926005c-d348-1a30-f8a8-d41f2764c652" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="fe2c1f0f-6641-cca4-5fb0-6d4756c947b3" name="Buddy &amp; Brandi" points="40.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="d3430470-9787-4b2a-3a7b-a6495f06542a" name="Buddy" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="380e6857-cfcd-740a-f1c1-629f29ce3699" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Buddy" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="3+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-3"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="ea8c8734-e00a-ee4e-a839-b6ded435dc00" targetId="246d11c3-c95a-63ba-d8ce-fb822fb84183" linkType="rule">
+              <modifiers/>
+            </link>
+            <link id="8946e6cd-665d-9973-29d8-19b0474fc34b" targetId="c2f21407-6a44-a470-5e56-9238d540a634" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="1ad1ba93-71d7-5a7b-6c5b-0521db9b7d38" name="Brandi" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="be9d758a-18bd-c328-c3f9-b2cfcae4742b" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Brandi" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-3"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="f943ffaa-b559-eceb-e73f-e1083be65942" targetId="246d11c3-c95a-63ba-d8ce-fb822fb84183" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="e3a9b439-aaf9-81d9-a0cd-e497337561d6" name="Civilian Truck" points="15.0" categoryId="27ff4644-ab4b-6736-cb10-1752fe720139" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="efe4f5e3-b81d-1e00-f815-f078ce7c1893" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="1c0f68e6-b751-7f61-08fb-b9bfbfc42d41" targetId="ae2170fd-2282-47ab-ddb1-e585faa0f188" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="592386b3-81de-20df-7e54-9bd52d9c71ba" targetId="ff8de36b-0401-bf24-1de7-9a805f8de422" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="8062da19-4491-5e80-873c-fc0bb153e73e" targetId="73fb6243-89ae-360c-fe47-50e8341c7be6" linkType="profile">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="7cf6484a-d3d2-684a-62ad-aee05ff97bb3" name="Corus" points="39.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="set" field="maxInRoster" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="02a7d462-d915-5d42-ee9a-c940a7a9fe66" field="selections" type="at least" value="1.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="4d2ed153-91d2-af86-c5c3-2449a166bb90" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Corus" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="3+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-8"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="0e988a90-49fe-31d9-fd59-7b936ae7eadc" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="e6e48611-cbf4-c649-de58-bc023c45584a" targetId="7fe9d81d-cdf5-8d84-23a7-2c5888e84afa" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="791df6a7-e235-3879-8b99-dfc93d8eda58" targetId="a926005c-d348-1a30-f8a8-d41f2764c652" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="e03a6b5f-fa84-f785-872b-bf7d9f218255" name="Craig" points="15.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="a784a702-0f87-039d-5adc-fb789bae07ba" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Craig" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="6+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-5"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links/>
+    </entry>
+    <entry id="f1c024eb-6614-f5d6-5162-a58f98c9092e" name="Deke" points="29.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="56a911a7-49c7-1818-5875-d7cc619e1253" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Deke" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="3+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="3+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links/>
+    </entry>
+    <entry id="caf954f4-5a97-c908-6e95-117527f8340e" name="Don Manning" points="23.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="d77f6ac3-38e6-b008-8a25-32dd5d65ff2f" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Don Manning" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-3"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="d821dca1-f6f8-9ac7-4a8c-8211a442e79a" targetId="18f7b06e-35ee-63cc-d49b-9fdac0c03d52" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="d1d3c535-f194-c841-835a-4526ba4ec58b" targetId="01076573-77f0-9139-43ff-6a44a3c5d941" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="41365741-348b-ac6d-978f-422a2b80fe86" name="Drex" points="13.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="set" field="maxInRoster" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="02a7d462-d915-5d42-ee9a-c940a7a9fe66" field="selections" type="at least" value="1.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="15a29a63-b1d5-7c54-3cf5-b39ad7015341" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Drex" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="1"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="e278c558-c4bf-50c7-2ad0-4ee2611e11fc" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="8b7b3fd9-af25-0178-4ba7-adb9852af1e6" name="Edwyn" points="32.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="bdf19f46-5949-3a14-5743-21f3413bc4d6" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Edwyn" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="-"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="3+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="-"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="5"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="f994727b-ded0-087f-cfdd-6f0fe862c6f9" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="047b8620-964a-d4eb-f8c1-b91b3c82aa8e" targetId="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="456f914f-ca89-df8e-9869-90e55950b323" targetId="937b85b5-672f-366a-a58c-eabad148e0fd" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="9ea6efc0-9448-24ca-4c29-93c33f555e32" targetId="c2f21407-6a44-a470-5e56-9238d540a634" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="cc8b40f9-03b5-14a6-f850-344de3c82165" name="Esteban Ramirez" points="18.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="70486ac4-d1f1-e26d-4b88-777d4d5ab527" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Esteban Ramirez" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="3+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-4"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="2"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="b3b3184c-495d-6de1-d585-cced2f81a815" targetId="e283057a-c01a-71e2-fb7e-43888ae0eb53" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="86e8a732-1219-572a-2d02-d39525cb908a" name="Eva" points="25.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="fe86109b-c4ff-bac1-a557-40027aff358f" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Eva" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="3+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-3"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="6b7cdb09-9d3d-df4e-84b4-71fdb95c7f3d" targetId="91f0c6eb-9805-3829-6e0c-f370be2d6c7e" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="76d194f3-055c-ea06-8a61-1863663f54b5" name="General Jaret" points="33.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="set" field="maxInRoster" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="02a7d462-d915-5d42-ee9a-c940a7a9fe66" field="selections" type="at least" value="1.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="0ea0d705-30b0-93c3-e03d-a905ef65a0b8" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="General Jaret" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="43fd56b8-9af5-0a24-84fa-3679b76cadc8" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="daf36c27-6d9c-cd02-d63e-4c18c6931601" targetId="5bcc865e-5a3d-fc86-d242-ff09576fe4cd" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="1f491684-ae2c-f8c4-dbf5-074fccbb8a90" name="Joe" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups>
+        <entryGroup id="3c0a40c9-a75b-8360-a2eb-bd0f7e1e89a8" name="Choose One" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries>
+            <entry id="e4a98147-5595-54b8-0ca7-3f73f76d881c" name="Joe" points="20.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="2e80623c-8a78-a33f-794c-45c66260282d" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Joe" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="-"/>
+                    <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="3+"/>
+                    <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+                    <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="-"/>
+                    <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links>
+                <link id="22695698-282a-1cf1-d204-907210d92065" targetId="7a66e9c6-a768-79b8-cd85-7c56d72dde26" linkType="rule">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="e1c69010-e8da-2665-4026-76bb45f9eed3" name="Joe in Captured Saucer (Heat Ray)" points="34.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="51798c67-b49b-61d8-b148-b24e8f160bde" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Joe in Captured Saucer (Heat Ray)" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+                    <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="-"/>
+                    <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+                    <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-8"/>
+                    <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="2"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links>
+                <link id="39d3527e-5b00-d5d1-3e05-73290860f1d0" targetId="013e72b7-7a26-f518-90e0-cc550fd3670b" linkType="rule">
+                  <modifiers/>
+                </link>
+                <link id="f535e732-29e0-88e6-3b66-732b3c95e45c" targetId="7fe9d81d-cdf5-8d84-23a7-2c5888e84afa" linkType="rule">
+                  <modifiers/>
+                </link>
+                <link id="98b30572-16c3-5877-a74a-2801bb2ae5b6" targetId="c3cf0c96-7fd0-dd0e-53cb-0b0f813c13f7" linkType="rule">
+                  <modifiers/>
+                </link>
+                <link id="dfa5b1c0-216e-90d3-711a-b84f23ec9855" targetId="ff8de36b-0401-bf24-1de7-9a805f8de422" linkType="rule">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="cc02c54c-a420-61d8-a1ca-4b984a0ca2fe" name="Joe in Captured Saucer (Freeze Ray)" points="31.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups/>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="878268a6-4625-c5b4-2811-ace6413e3a86" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Joe in Captured Saucer (Freeze Ray)" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+                    <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="-"/>
+                    <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+                    <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+                    <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="2"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links>
+                <link id="ac5501a9-f773-cfc4-126c-73d34e8e39d7" targetId="691c4ace-8bac-8b9a-b597-f32c42098f8a" linkType="rule">
+                  <modifiers/>
+                </link>
+                <link id="ba6abfc0-47cb-0d8e-005d-1fc28b19584a" targetId="c3cf0c96-7fd0-dd0e-53cb-0b0f813c13f7" linkType="rule">
+                  <modifiers/>
+                </link>
+                <link id="87863cc2-e1a4-b9c4-c1b5-b97f6f7ba0ff" targetId="ff8de36b-0401-bf24-1de7-9a805f8de422" linkType="rule">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+            <entry id="f6d68328-7be1-a468-44e2-b8c264152a65" name="Joe in Captured Robot" points="55.0" categoryId="(No Category)" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+              <entries/>
+              <entryGroups>
+                <entryGroup id="1c737f3f-1e4b-0a27-346b-fccc7909dfcc" name="Weapons" minSelections="2" maxSelections="2" minInForce="0" maxInForce="2" minInRoster="0" maxInRoster="2" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                  <entries>
+                    <entry id="6eca3f7a-fbbe-ad1c-fb04-308bcc86c440" name="Freeze Ray" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                      <entries/>
+                      <entryGroups/>
+                      <modifiers/>
+                      <rules/>
+                      <profiles/>
+                      <links>
+                        <link id="509deb14-45d9-62c5-f4ed-24d675ccdd8a" targetId="7641a4a1-8aa1-4a9b-2619-2cb76304cdcc" linkType="profile">
+                          <modifiers/>
+                        </link>
+                        <link id="f9847483-0de6-374f-459b-9639d3b135a3" targetId="691c4ace-8bac-8b9a-b597-f32c42098f8a" linkType="rule">
+                          <modifiers/>
+                        </link>
+                      </links>
+                    </entry>
+                    <entry id="2ce54736-1599-5853-df14-33979ae2b6a9" name="Heat Ray" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="2" minInRoster="0" maxInRoster="2" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                      <entries/>
+                      <entryGroups/>
+                      <modifiers/>
+                      <rules/>
+                      <profiles/>
+                      <links>
+                        <link id="6b3731db-d5b2-dc3d-9895-40c55143e15a" targetId="10d4e641-5630-ed82-d64e-264d8f26b120" linkType="profile">
+                          <modifiers/>
+                        </link>
+                        <link id="f992eed2-9d76-ac22-a4a7-4fcbff029959" targetId="7fe9d81d-cdf5-8d84-23a7-2c5888e84afa" linkType="rule">
+                          <modifiers/>
+                        </link>
+                      </links>
+                    </entry>
+                    <entry id="4a8d8550-622b-b25e-2324-9292f514b764" name="Massive Claw" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="0" maxSelections="2" minInForce="0" maxInForce="2" minInRoster="0" maxInRoster="2" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+                      <entries/>
+                      <entryGroups/>
+                      <modifiers/>
+                      <rules/>
+                      <profiles/>
+                      <links>
+                        <link id="cf25d552-4474-f44c-e871-1e1afb5cbc05" targetId="a16ee5c1-7340-fbf0-bb1b-207a2aefb6c3" linkType="profile">
+                          <modifiers/>
+                        </link>
+                        <link id="6355aef8-d0cf-5f5d-71bf-214fdaef7d14" targetId="013e72b7-7a26-f518-90e0-cc550fd3670b" linkType="rule">
+                          <modifiers/>
+                        </link>
+                        <link id="e6c8b05c-d98e-a069-1da0-cac5f75575b1" targetId="e3e16bce-301c-c363-b545-9154d6e0c543" linkType="rule">
+                          <modifiers/>
+                        </link>
+                      </links>
+                    </entry>
+                  </entries>
+                  <entryGroups/>
+                  <modifiers/>
+                  <links/>
+                </entryGroup>
+              </entryGroups>
+              <modifiers/>
+              <rules/>
+              <profiles>
+                <profile id="fed7dde8-9ffd-fc0e-0975-2194058e4733" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Joe in Captured Robot" hidden="false">
+                  <characteristics>
+                    <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+                    <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+                    <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+                    <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="Varies"/>
+                    <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+                  </characteristics>
+                  <modifiers/>
+                </profile>
+              </profiles>
+              <links>
+                <link id="7f78ae89-1217-6967-8361-ea0eb915371a" targetId="c3cf0c96-7fd0-dd0e-53cb-0b0f813c13f7" linkType="rule">
+                  <modifiers/>
+                </link>
+                <link id="a377e537-43fb-961d-94be-4d3988940de7" targetId="ff8de36b-0401-bf24-1de7-9a805f8de422" linkType="rule">
+                  <modifiers/>
+                </link>
+              </links>
+            </entry>
+          </entries>
+          <entryGroups/>
+          <modifiers/>
+          <links/>
+        </entryGroup>
+      </entryGroups>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="9077a1c4-81bb-f7a3-9880-120a8d269914" name="Military Truck" points="20.0" categoryId="27ff4644-ab4b-6736-cb10-1752fe720139" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles/>
+      <links>
+        <link id="2f09f867-ac3b-5552-2118-69f293332927" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="4e45380d-5bd2-4f83-2cc7-8daa6022d958" targetId="13daf816-0ce2-38c3-b92d-1c66b997a6e0" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="beba9277-f16e-b922-b8fd-8dba1a9eb914" targetId="ae2170fd-2282-47ab-ddb1-e585faa0f188" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="591fd632-725a-8e08-8a63-41075cca696e" targetId="ff8de36b-0401-bf24-1de7-9a805f8de422" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="081467ba-6b8e-74ea-47b9-8a175f024496" targetId="02233f00-bcea-b391-f505-d87f55e2d401" linkType="profile">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="ecc3ef2d-4142-928e-eb8c-57d6bb5df154" name="Novas Vira Heavy Weapons Team" points="15.0" categoryId="788a7565-e793-7b5e-82d2-f09618b677a2" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="0" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="increment" field="maxInRoster" value="1.0" repeat="true" numRepeats="1" incrementParentId="roster" incrementChildId="e811de62-4ef5-06ad-345a-871b1323ddfb" incrementField="selections" incrementValue="2.0">
+          <conditions/>
+          <conditionGroups/>
+        </modifier>
+        <modifier type="decrement" field="maxInRoster" value="1.0" repeat="true" numRepeats="1" incrementParentId="roster" incrementChildId="9b3c18a1-9bbd-6420-8b83-10d6c0fb1865" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="a058f5b6-c681-e27b-3f79-f301cfdedec5" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Novas Vira Heavy Weapons Team" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-8"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="ff277cc3-9d80-6386-7b0c-c7776b6a415e" targetId="9b78d68e-efa9-e445-f3e0-6c82cfb6de40" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="5ff8ee8e-5651-0a6a-6e81-a3088d12e8e5" targetId="b6cb9dfc-930e-9212-3f41-bb43645c5d53" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="70b57f87-840e-6555-c5c3-d4116ebfbec7" targetId="561b1bf0-7299-7141-9496-ee70e9f4ca54" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="e811de62-4ef5-06ad-345a-871b1323ddfb" name="Novas Vira Militia" points="2.0" categoryId="788a7565-e793-7b5e-82d2-f09618b677a2" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="3baa09ee-18d4-a701-ea7d-79b522236e77" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Novas Vira Militia" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="6+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="6+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="0f80f67a-025a-0438-91bf-085dfd9510c2" targetId="01076573-77f0-9139-43ff-6a44a3c5d941" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="9b3c18a1-9bbd-6420-8b83-10d6c0fb1865" name="Novas Vira Sonic Disruptor" points="16.0" categoryId="788a7565-e793-7b5e-82d2-f09618b677a2" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="0" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="increment" field="maxInRoster" value="1.0" repeat="true" numRepeats="1" incrementParentId="roster" incrementChildId="e811de62-4ef5-06ad-345a-871b1323ddfb" incrementField="selections" incrementValue="2.0">
+          <conditions/>
+          <conditionGroups/>
+        </modifier>
+        <modifier type="decrement" field="maxInRoster" value="1.0" repeat="true" numRepeats="1" incrementParentId="roster" incrementChildId="ecc3ef2d-4142-928e-eb8c-57d6bb5df154" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="042715cd-9442-4ae9-bcc3-78a0afe2aa71" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Novas Vira Sonic Disruptor" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="20d85712-012a-78ca-6f69-a7a6f7829a1e" targetId="013e72b7-7a26-f518-90e0-cc550fd3670b" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="47633dd8-ca1c-badb-599e-2b7f3237f9f9" targetId="0ed87983-8ee3-96d7-8585-ea4e16bb734f" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="12ed25f6-2784-2b85-7762-8422862cc7b7" targetId="561b1bf0-7299-7141-9496-ee70e9f4ca54" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="db1129d0-68cd-324f-3cf7-981148496fe3" name="Phil" points="19.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="82ebf5ed-3222-6805-db36-8cd28b0117ad" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Phil" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-4"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="f110f599-4571-8c74-6d76-82fc53993d00" targetId="f160d793-0ce5-0a05-bdd1-81c7a08f0146" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="f3d8aeb3-c071-121e-c628-6c05a846dddc" name="Shadow" points="23.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="set" field="maxInRoster" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="02a7d462-d915-5d42-ee9a-c940a7a9fe66" field="selections" type="at least" value="1.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="8ee84336-e10a-019c-f6af-ca1d36bc5963" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Shadow" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="3+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="ea1205b5-b23b-facb-e170-502e2b5d6605" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="a8c42b2a-d1bb-e373-84af-9774bdac24cb" targetId="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="eaeefc3f-7265-f833-9459-1d4d1965c204" name="Sidney Rose on Henry the Giant Flea" points="30.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="5a1a0fbd-2f0a-4668-44f1-c58632533a92" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Sidney Rose on Henry the Giant Flea" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="-"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="3+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="-"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="2"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="c8ca312b-1eb4-a3f7-351d-1b29852744e0" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="0759086f-a2bd-bbf3-4d74-82012079a4b3" targetId="e3e16bce-301c-c363-b545-9154d6e0c543" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="28f4c966-a8d6-fc0b-2f88-7fe5c0daefcc" targetId="e6b5d8ab-af84-7ea2-9f71-3bb0ae5a71a4" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="5711d5d4-e8df-83fc-76b5-f45ff9d8a5c2" name="Tank" points="55.0" categoryId="27ff4644-ab4b-6736-cb10-1752fe720139" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="c87af989-5d92-a3de-95a1-89860254deb1" name="Tank Machine Gun" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="82ca07cd-b552-e288-088b-44e5cad897d3" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Machine Gun" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="-"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="-"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-10"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="50357c53-bbb3-ffa1-e707-d9db9e5cd218" targetId="e283057a-c01a-71e2-fb7e-43888ae0eb53" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="ff65f592-69e9-ad14-ed7e-104bfd4326c9" name="Tank Main Gun: AP Rounds" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="1c0e6431-b28f-36f7-9d1e-b7c603cfc289" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Main Gun: AP Rounds" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="-"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="-"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="2-20"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="20c18b30-90e6-4987-e073-7579ca6f1a19" targetId="013e72b7-7a26-f518-90e0-cc550fd3670b" linkType="rule">
+              <modifiers/>
+            </link>
+            <link id="addf3c9f-e5c0-767d-d01c-887e0199ea23" targetId="7fe9d81d-cdf5-8d84-23a7-2c5888e84afa" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="f93883bb-fbe9-a21f-10f6-22c0005ac1d2" name="Tank Main Gun: HE Rounds" points="0.0" categoryId="(No Category)" type="upgrade" minSelections="1" maxSelections="1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="fb135928-a5b0-dfb3-7ad8-73d7aa459132" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Main Gun: HE Rounds" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="-"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="-"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="2-12"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="010ce183-446b-3058-1f82-f6b156dc5a88" targetId="cc4459c3-ae34-a3ab-27a3-56100fdf32ff" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="70f8d4c9-8299-c93a-953d-1f88eceafcfe" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Tank" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="-"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="Varies"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="9a298a2b-bfde-3e62-86cd-6e951853948f" targetId="ff8de36b-0401-bf24-1de7-9a805f8de422" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="eeaeb279-98ca-2a22-c435-719a3deb6c17" targetId="c3cf0c96-7fd0-dd0e-53cb-0b0f813c13f7" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="b516dc91-a63a-6282-8100-b00d3d3e163c" targetId="dc9e1594-ac3c-e415-a5e1-2691babcb451" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="751d9e53-054c-1a6e-1d96-b950e2c6868e" name="Tiger Corps Alien Bounty Hunter" points="9.0" categoryId="788a7565-e793-7b5e-82d2-f09618b677a2" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="8ff7165b-ea4a-c7c6-2d5d-0237e040aef9" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Tiger Corps Alien Bounty Hunter" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="2ecdf7aa-018a-7fc1-d150-d6c1e2cb4661" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="02a7d462-d915-5d42-ee9a-c940a7a9fe66" name="Tiger Corps Combo" points="110.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="0" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries>
+        <entry id="1b60e790-36bc-52e7-b88d-d0c1d2e2916d" name="Zeke" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="ee305f3f-a29f-40b1-4140-592666500b53" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Zeke" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="6+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-3"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="1"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links/>
+        </entry>
+        <entry id="3c81cccb-d0ef-ac13-788a-eddb1f186a0d" name="Shadow" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="d11ee0a4-c9a6-b3ec-fb36-6ecc03135036" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Shadow" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="3+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="c3452678-9320-91a8-2458-0ec11b10e4e7" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+              <modifiers/>
+            </link>
+            <link id="8c746995-ce8d-25a7-5fb8-954c9003143f" targetId="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="f6024e0d-39df-80db-e808-2cde4ec181e2" name="General Jaret" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="e31d5e90-adb1-e1b9-3c54-4765680c7d03" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="General Jaret" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="09b3b949-356f-88a8-cb77-4253f5332046" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+              <modifiers/>
+            </link>
+            <link id="f3814052-f55b-b55b-cef4-e6acdbe40365" targetId="5bcc865e-5a3d-fc86-d242-ff09576fe4cd" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="8a14fae4-355d-c668-6d44-df77be709f3c" name="Corus" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="3bfefbe4-c288-739c-4ad1-3ad279695d75" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Corus" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="3+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-8"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="598e0a2b-fec3-4472-bfcf-0347ababed3b" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+              <modifiers/>
+            </link>
+            <link id="2dd34c31-b5d1-8a64-5607-b7421cb7cb8a" targetId="7fe9d81d-cdf5-8d84-23a7-2c5888e84afa" linkType="rule">
+              <modifiers/>
+            </link>
+            <link id="8cbed932-2e29-8119-d1d2-fe64124872b6" targetId="a926005c-d348-1a30-f8a8-d41f2764c652" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="178126a4-8e5f-2bc2-9bf5-cf5e60e1380e" name="Drex" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="e66c1ad2-8806-2fc7-c439-88d5ac6b6a47" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Drex" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="1"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="344cb031-320a-8f28-4ca9-698ca322d65a" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+        <entry id="b2149e2a-53d2-0979-90dd-f4583e83758d" name="Barnabus" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="1" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+          <entries/>
+          <entryGroups/>
+          <modifiers/>
+          <rules/>
+          <profiles>
+            <profile id="471e742c-963e-2407-729a-cf55e0e3745f" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Barnabus" hidden="false">
+              <characteristics>
+                <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+                <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+                <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+                <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+                <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="1"/>
+              </characteristics>
+              <modifiers/>
+            </profile>
+          </profiles>
+          <links>
+            <link id="2ad9524c-62e5-71a9-30b1-5720ae1bd35c" targetId="ff286989-39f4-c02b-9e92-a47306c0d59e" linkType="rule">
+              <modifiers/>
+            </link>
+          </links>
+        </entry>
+      </entries>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="set" field="maxInRoster" value="1.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="751d9e53-054c-1a6e-1d96-b950e2c6868e" field="selections" type="at least" value="1.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="903e16d8-4fd5-8be8-640a-c246b3cb4853" name="Tiger Corps Combo (Part II)" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="set" field="minInRoster" value="1.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="02a7d462-d915-5d42-ee9a-c940a7a9fe66" field="selections" type="at least" value="1.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles/>
+      <links/>
+    </entry>
+    <entry id="a38bc95e-a597-9bed-656d-172576c4c423" name="Troy" points="16.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="a974515e-a2bc-f29e-7c58-54228016b16f" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Troy" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="cf0ac83c-2cd5-e061-2417-9f636fceb52b" targetId="bd141c6c-8b88-d1e3-c52e-3e3394fbd7a8" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="f788cd0e-4150-d6c6-ded3-0d4d64596bcf" name="Tunga" points="21.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="7b4c5e56-562c-b8e6-42af-32cf96edf4a0" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Tunga" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="-"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="2+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="-"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="22a6a46f-04e5-7da3-3cff-43b1ce66a353" targetId="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="25697503-d63b-3155-0cc7-e251062aa8f7" targetId="c2f21407-6a44-a470-5e56-9238d540a634" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="579e5d11-c01a-64fd-d33f-8fa47aaa9466" name="US Sergeant" points="19.0" categoryId="788a7565-e793-7b5e-82d2-f09618b677a2" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="ccd31bb8-7665-f1bb-7c6f-7071e5845876" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="US Sergeant" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="2"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="9b820cd4-7428-4cda-24b6-2f9b446c26af" targetId="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="c546eeac-9fea-3a3f-4504-55826c94fe0f" targetId="7b498a8a-c1ab-cc34-0854-e9a25edbe3ac" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="2cee9c1c-095f-ce77-7151-0fdbfda79abd" name="US Trooper with Carbine" points="3.0" categoryId="788a7565-e793-7b5e-82d2-f09618b677a2" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="-1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="529e9666-3755-f17a-003b-e4cadc3dfa54" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="US Trooper with Carbine" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="6+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="8e0c751b-4065-7b70-a5ab-fbe8d0d07ba4" targetId="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="8701100a-f896-c1be-acc2-97c0d6901d12" name="US Trooper with LMG" points="7.0" categoryId="788a7565-e793-7b5e-82d2-f09618b677a2" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="0" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="increment" field="maxInRoster" value="1.0" repeat="true" numRepeats="1" incrementParentId="roster" incrementChildId="2cee9c1c-095f-ce77-7151-0fdbfda79abd" incrementField="selections" incrementValue="2.0">
+          <conditions/>
+          <conditionGroups/>
+        </modifier>
+        <modifier type="decrement" field="maxInRoster" value="1.0" repeat="true" numRepeats="1" incrementParentId="roster" incrementChildId="55366aa0-28c0-0cdf-63df-0714f514efe9" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="61b30f3a-5cd5-4be7-ca96-b28f65521a3c" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="US Trooper with LMG" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="6+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-12"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="12c2f2ee-ffee-8b96-2710-80c6cfb84ab8" targetId="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="ef62c756-cc36-ce5f-0be5-502a7d97c5af" targetId="e283057a-c01a-71e2-fb7e-43888ae0eb53" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="55366aa0-28c0-0cdf-63df-0714f514efe9" name="US Trooper with Missle Launcher" points="13.0" categoryId="788a7565-e793-7b5e-82d2-f09618b677a2" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="-1" minInRoster="0" maxInRoster="0" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="increment" field="maxInRoster" value="1.0" repeat="true" numRepeats="1" incrementParentId="roster" incrementChildId="2cee9c1c-095f-ce77-7151-0fdbfda79abd" incrementField="selections" incrementValue="2.0">
+          <conditions/>
+          <conditionGroups/>
+        </modifier>
+        <modifier type="decrement" field="maxInRoster" value="1.0" repeat="true" numRepeats="1" incrementParentId="roster" incrementChildId="8701100a-f896-c1be-acc2-97c0d6901d12" incrementField="selections" incrementValue="1.0">
+          <conditions/>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="9665a379-9203-43a4-e5b5-ca506787ba25" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="US Trooper with Missle Launcher" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="4+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="6+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="3-20"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="a312b949-756b-c3dc-c292-a527d016bfde" targetId="013e72b7-7a26-f518-90e0-cc550fd3670b" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="ea515ebe-0ea7-e1c3-8010-5b4d4bb72ace" targetId="7fe9d81d-cdf5-8d84-23a7-2c5888e84afa" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="65d5d7e0-0586-5eab-93bb-607056a6f1da" targetId="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="a48cbfa2-6878-b60e-e307-b476b2aa4019" name="Xiuhcoatl" points="17.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="938c154b-c2d6-c38c-fce1-fa513a86ad8b" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Xiuhcoatl" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="5+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-3"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="17"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="c012b303-644e-ab57-aab0-f1ea6f235bee" targetId="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="aadf1852-9417-78d4-64bb-6f35f1953b7a" targetId="9b78d68e-efa9-e445-f3e0-6c82cfb6de40" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="3b280a80-0a8e-126a-25d9-f187e386eb9e" name="Zeke" points="4.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="-1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers>
+        <modifier type="set" field="maxInRoster" value="0.0" repeat="false" numRepeats="1" incrementParentId="roster" incrementChildId="no child" incrementField="selections" incrementValue="1.0">
+          <conditions>
+            <condition parentId="roster" childId="02a7d462-d915-5d42-ee9a-c940a7a9fe66" field="selections" type="at least" value="1.0"/>
+          </conditions>
+          <conditionGroups/>
+        </modifier>
+      </modifiers>
+      <rules/>
+      <profiles>
+        <profile id="9492257a-d6b0-1291-b0c0-7e71a838f66d" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Zeke" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="6+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="6+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-3"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="1"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links/>
+    </entry>
+  </entries>
+  <rules/>
+  <links/>
+  <sharedEntries>
+    <entry id="fb44f864-859e-5737-6c16-047651e2fe94" name="Agent Jack Falco" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="6e4b28d0-33f5-39eb-ea29-9644912e8070" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Agent Jack Falco" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="2+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="4+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-6"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="3"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="6703a82d-020e-754e-998e-cdc80890c530" targetId="f2b301b8-7839-3345-288c-d7d2b3e685a4" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+    <entry id="d1a187fd-4bc4-5d65-3b70-cdb8a2a1262b" name="Agent Natalya El" points="0.0" categoryId="d2a0df56-40fc-4f2d-cd95-c175ad853601" type="model" minSelections="0" maxSelections="1" minInForce="0" maxInForce="1" minInRoster="0" maxInRoster="1" minPoints="0.0" maxPoints="-1.0" collective="false" hidden="false">
+      <entries/>
+      <entryGroups/>
+      <modifiers/>
+      <rules/>
+      <profiles>
+        <profile id="d8e43c1f-189f-cc87-70ef-0cdf16f8da4d" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Agent Natalya El" hidden="false">
+          <characteristics>
+            <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="3+"/>
+            <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+            <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+            <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="1-4"/>
+            <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="4"/>
+          </characteristics>
+          <modifiers/>
+        </profile>
+      </profiles>
+      <links>
+        <link id="5d4506b2-7d7a-09c5-69af-1de67917ca34" targetId="9b78d68e-efa9-e445-f3e0-6c82cfb6de40" linkType="rule">
+          <modifiers/>
+        </link>
+        <link id="04398554-d070-ee80-83c7-bb01b1e9d9f7" targetId="b6cb9dfc-930e-9212-3f41-bb43645c5d53" linkType="rule">
+          <modifiers/>
+        </link>
+      </links>
+    </entry>
+  </sharedEntries>
+  <sharedEntryGroups/>
+  <sharedRules>
+    <rule id="013e72b7-7a26-f518-90e0-cc550fd3670b" name="ANTI-TANK" hidden="false">
+      <description>If an ANTI-TANK weapon targets a VEHICLE they get +2 additional dice.</description>
+      <modifiers/>
+    </rule>
+    <rule id="ff286989-39f4-c02b-9e92-a47306c0d59e" name="ARMOUR" hidden="false">
+      <description>Whenever a model with this ability rolls to Survive against a SHOOT attack, add 1 to the total number of successes before comparing it to the enemy attack. If the ARMOUR is the difference that saves the model then it is Rattled. ARMOUR has no effect in a FIGHT.</description>
+      <modifiers/>
+    </rule>
+    <rule id="7fe9d81d-cdf5-8d84-23a7-2c5888e84afa" name="ARMOUR PIERCING" hidden="false">
+      <description>An attack with this weapon ignores any ARMOUR or HEAVY ARMOUR the target may have. Those abilities are useless against this attack</description>
+      <modifiers/>
+    </rule>
+    <rule id="91f0c6eb-9805-3829-6e0c-f370be2d6c7e" name="AUTHORITY *" hidden="false">
+      <description>A model with this ability may take the first Turn in a Round for their side, regardless of which side would normally start. This model must be the first to act in this first Turn. The model pays a point of Heroics before activating. Other than that, the Turn is completed as normal.
+
+If both players have models that want to use this ability then the model belonging to the
+side that would normally go first in a Round gets the first Turn. Both models would still pay a point of Heroics in this situation.</description>
+      <modifiers/>
+    </rule>
+    <rule id="9b78d68e-efa9-e445-f3e0-6c82cfb6de40" name="BLASTER" hidden="false">
+      <description>Any model that survives being shot at by a BLASTER is marked as activated.</description>
+      <modifiers/>
+    </rule>
+    <rule id="5ea8e60f-5ce1-7af9-53d7-f25659a768dc" name="BRAVE" hidden="false">
+      <description>This ability does not work while the BRAVE model is Rattled.
+
+If a square containing more than one model is the target of any attack, a BRAVE model must be targeted if possible. This applies to both SHOOTING and FIGHTING. If more than one BRAVE model is a possible target then the owner of the BRAVE models may choose which one leaps in to save the day.
+
+However, if the SHOOTING model cannot see any BRAVE models then it cannot target them.
+Attacks that hit all models within a square at the same time (such as artillery or Heat Rays) are not affected.</description>
+      <modifiers/>
+    </rule>
+    <rule id="757b2728-7418-ff66-73ef-84d20c796af0" name="BRAWLER" hidden="false">
+      <description>A model with this ability can FIGHT a second time for free if their first FIGHT in that Turn killed their target and there is a second target in the same square to attack. If the first target was saved by Heroics or anything else then it has not been killed and the ability does not trigger.
+
+The free FIGHT does not count as an action for that Turn. A BRAWLER may only get one free FIGHT per Turn.</description>
+      <modifiers/>
+    </rule>
+    <rule id="c3df6cc4-56fc-1721-2c60-4a68f41103c7" name="COORDINATED STRIKE" hidden="false">
+      <description>When you resolve one of your own Support Card sets, you may be able to keep one of
+the cards rather than adding it to the discard pile. After the set and effects have been
+resolved, roll a single dice. On the roll of a 6+ one of the cards in the set is returned to
+your hand instead of being discarded.
+
+This ability works as long as you have at least one model with it alive on the battlefield.
+Having more than one model with this ability makes no difference.</description>
+      <modifiers/>
+    </rule>
+    <rule id="e283057a-c01a-71e2-fb7e-43888ae0eb53" name="COVERING FIRE" hidden="false">
+      <description>A model with this ability can choose to either SHOOT normally, or if it does not MOVE that Turn it can instead use the special COVERING FIRE attack. COVERING FIRE allows the model to choose up to 3 target squares instead of 1. Each square must contain at least one
+target that the model could SHOOT at normally. In addition, each square must be adjacent to at least one of the other squares.
+
+COVERING FIRE does not roll dice. Instead, all the Soldier models that the SHOOTER can see in all three chosen squares are immediately Rattled.</description>
+      <modifiers/>
+    </rule>
+    <rule id="937b85b5-672f-366a-a58c-eabad148e0fd" name="DRAGON SLAYER" hidden="false">
+      <description>A model with this ability gets an extra dice when FIGHTING any model that is mounted on a larger base than a normal human or is so large that it is not mounted on a base at all.</description>
+      <modifiers/>
+    </rule>
+    <rule id="f2b301b8-7839-3345-288c-d7d2b3e685a4" name="ENERGY BOW" hidden="false">
+      <description>Each time a model with this ability SHOOTS, choose one of the following attack types:
+--Armour Piercing: This attack is made with the ARMOUR PIERCING ability.
+--Explosive: All models in the target square must roll to avoid the attack. Roll once for the attack, and separately for each target.
+--Man-stopper: If the target survives they are both Rattled and marked as activated.</description>
+      <modifiers/>
+    </rule>
+    <rule id="e44b669d-0cf0-1cd6-b05b-5a4a4058c809" name="EXPERIMENTS" hidden="false">
+      <description>This model has been tinkering with stuff he should have left alone. Sometimes this helps, and sometimes it doesn’t. As long as a model with this ability is on the battlefield this ability is in effect. Each time the owning player plays a card, first resolve the card’s
+effects, then roll one dice to see what happens next:
+1: The owning player’s opponent gets a free card. If this takes their hand of cards to 5 or more they must immediately discard down to the limit of 4.
+2-5: There is a strange smell in the air, but nothing else happens.
+6-8: The card you just played is returned to your hand instead of being discarded. Note that if this takes you to your hand limit, you may not draw more until one is discarded.</description>
+      <modifiers/>
+    </rule>
+    <rule id="cc4459c3-ae34-a3ab-27a3-56100fdf32ff" name="EXPLOSIVE" hidden="false">
+      <description>When a model with this type of weapon SHOOTS at a square they must roll a separate attack against every model in that square, even those they cannot see. Any model that survives being shot at is Rattled.</description>
+      <modifiers/>
+    </rule>
+    <rule id="7a66e9c6-a768-79b8-cd85-7c56d72dde26" name="FIXIN&apos; STUFF *" hidden="false">
+      <description>If a model with this ability reveals an Alien Secrets counter then they can choose to fix the alien artefact instead of removing the counter for VPs. This will cost a point of Heroics as normal. Discard the counter and roll a single dice to see what you can rebuild:
+1-3: Martian communicator. You can hear the enemy transmissions and listen in on their secret plans. Unfortunately you cannot understand a word they’re saying, so it is not much help!
+4-6: Disintegrator. The model gains a 5+ SHOOT attack with a range of 1-4.
+7-8: Freeze pistol. The model gains a 5+ SHOOT attack with a range of 1-3. Anyone that is not killed by this attack is marked as activated.
+
+If a model ever ends up with more than one type of weapon, it may choose which to use when SHOOTING.</description>
+      <modifiers/>
+    </rule>
+    <rule id="18f7b06e-35ee-63cc-d49b-9fdac0c03d52" name="FLY" hidden="false">
+      <description>This means that they MOVE up to twice as many squares as a normal model for the type of action chosen. They may also ignore scenery when moving.</description>
+      <modifiers/>
+    </rule>
+    <rule id="7b498a8a-c1ab-cc34-0854-e9a25edbe3ac" name="FOLLOW ME! *" hidden="false">
+      <description>Complete the model’s activation as normal. Then, if you want to trigger this ability, spend a point of Heroics and nominate up to 4 other unactivated Soldiers (not Heroes) on the same side as the Hero and no more than 2 squares away. One at a time, these models are now activated. Complete each model’s activation before moving on to the next. As usual, all models are marked as activated once they have completed their actions.
+
+As these additional activations are all triggered by the original model’s Heroic ability, only the original Hero model counts for purposes of working out what that player can do this Turn.</description>
+      <modifiers/>
+    </rule>
+    <rule id="9d60600e-a6d3-4248-bb26-2546361e2c45" name="FORM ON ME! *" hidden="false">
+      <description>Complete the vehicle’s activation as normal. Then, if you want to trigger this ability,
+spend a point of Heroics and nominate 1 other unactivated vehicle of the same type
+(e.g. saucer or robot, the exact configuration is not relevant) on the same side and no
+more than 2 squares away. This vehicle is now activated. As usual, the vehicles are
+both marked as activated once they have completed their actions.
+
+As this additional activation is triggered by the original model’s Heroic ability, only the
+original model counts for purposes of working out what that player can do this Turn.</description>
+      <modifiers/>
+    </rule>
+    <rule id="691c4ace-8bac-8b9a-b597-f32c42098f8a" name="FREEZE!" hidden="false">
+      <description>When a model with this type of weapon SHOOTS at a square they must roll a separate attack against every model in that square that they can see. Any model that survives being shot at is marked as activated.</description>
+      <modifiers/>
+    </rule>
+    <rule id="c3cf0c96-7fd0-dd0e-53cb-0b0f813c13f7" name="HEAVY ARMOUR" hidden="false">
+      <description>Whenever a model with this ability rolls Survive against a SHOOT attack, add 2 to the total number of successes before comparing it to the enemy attack. If the HEAVY ARMOUR is the difference that saves the model then it is Rattled.
+
+HEAVY ARMOUR has no effect in a FIGHT.</description>
+      <modifiers/>
+    </rule>
+    <rule id="a26c0ba6-1692-b24b-ab21-2913c07df4e9" name="HIGH-TECH" hidden="false">
+      <description>The model may pick up Alien Secrets. If the scenario specifically says that the HIGH-TECH model’s side can earn VPs for picking up Alien Secrets then they keep the counter to show this, as usual. Otherwise, put the counter in the box with all the unused counters from setup.
+
+When a HIGH-TECH model dies, if their side is not able to score VP’s for Alien Secrets, they drop an Alien Secrets counter. This is taken from the unused counters in the box and placed in the square they were removed from. If all the Alien Secrets counters are currently in play then this rule is ignored.</description>
+      <modifiers/>
+    </rule>
+    <rule id="c18425da-73e5-dd2f-7542-56bf832dcb39" name="HORDE" hidden="false">
+      <description>There is no fixed limit to the number of zombie models you can have in a single square at once. The only restriction is how many models you can physically fit in a square. A zombie in a FIGHT gets a +1 dice modifier for each extra zombie in the same square instead of the normal +1 dice for any number of friends.</description>
+      <modifiers/>
+    </rule>
+    <rule id="e3e16bce-301c-c363-b545-9154d6e0c543" name="HUGE WEAPON" hidden="false">
+      <description>A HUGE WEAPON gets an extra +2 dice when it attacks, on top of any other modifiers that apply.</description>
+      <modifiers/>
+    </rule>
+    <rule id="01076573-77f0-9139-43ff-6a44a3c5d941" name="INGENIOUS" hidden="false">
+      <description>When you play a Human Ingenuity card from your hand, you may be able to keep it rather than adding it to the discard pile. After the card has been resolved, roll a single dice. On the roll of a 6+ it is returned to your hand instead of being discarded.
+
+This ability works as long as you have at least one model with it alive on the battlefield when you play the card. Having more than one model with this ability makes no difference.</description>
+      <modifiers/>
+    </rule>
+    <rule id="5e92efa1-7096-20bf-4da9-eb172faa7e53" name="JUDGE" hidden="false">
+      <description>When a model within the Judge’s LOS kills another model (in any way) or attacks the Judge themselves with a SHOOT attack, then the Judge may immediately attempt to SHOOT that model. This action is in addition to any normal action that the Judge may make and applies whether he is marked as activated or not. This is a judicial execution of a known or attempted murderer.
+
+If the target is killed then the model is considered to have been Judged.
+
+As usual, if the kill is ignored by spending Heroics then it is not considered a kill and this rule does not apply.</description>
+      <modifiers/>
+    </rule>
+    <rule id="f160d793-0ce5-0a05-bdd1-81c7a08f0146" name="KLUTZ" hidden="false">
+      <description>A model with this ability can re-roll any dice that rolls a 1 as well as any that roll an 8. A roll of a 1 is still a fail rather than a success.</description>
+      <modifiers/>
+    </rule>
+    <rule id="a38f9962-c099-919b-d6a9-fa918bcbc9ff" name="KNOW YOUR ENEMY! *" hidden="false">
+      <description>When the model kills an enemy model in a FIGHT they may take their prize back to their labs. Remove the model with this ability from the battlefield along with the enemy model. This earns their side 1 VP. The model with this ability is not counted as killed and earns the enemy no VPs. In following Turns they may return to the battle by playing a Reinforcements Arrive card.</description>
+      <modifiers/>
+    </rule>
+    <rule id="5c58e66b-bea0-6a38-70a7-cc35dec926af" name="LAWGIVER" hidden="false">
+      <description>The model has a distinctive LAWGIVER pistol. The model can take shots as normal, or choose to fire one of 3 types of special ammunition. Each type has a special effect in addition to the normal damage from a shot. If you want to use this special ammunition, say which type you are firing before you take the shot.
+
+ - AP: this shot has the ARMOUR PIERCING ability.
+
+ - Stun: the target is marked as activated.
+
+ - Hotshot: the target is set on fire. Mark it as activated. At the end of each Round, roll a dice. On a 1-4 the model puts the fire out. On a 5-8 the model remains on fire. This counts as a killed result, so the model will only survive if it has a point of Heroics to save itself with. Mark it as activated again. A model can do nothing but try to put the flames out while it is on fire. If it is attacked in a Fight then it does not roll any dice, but counts as rolling 1 success. It may be Shot at as normal. A model that puts out its flames may carry on as normal afterwards.
+
+You may use each type of special ammunition once per battle.</description>
+      <modifiers/>
+    </rule>
+    <rule id="e6b5d8ab-af84-7ea2-9f71-3bb0ae5a71a4" name="LEAP" hidden="false">
+      <description>The model can jump huge distances. Whenever an action would allow the model to move one or two squares, you may choose to jump the model up to 3 squares instead. The model will jump over any models or scenery that is in its way. If the model completes this jump by landing in the same square as an enemy model then it must FIGHT it immediately as usual.</description>
+      <modifiers/>
+    </rule>
+    <rule id="5bcc865e-5a3d-fc86-d242-ff09576fe4cd" name="LORD OF BATTLE *" hidden="false">
+      <description>This works just like FOLLOW ME!, but instead of centring the effect on the Hero using it, you can choose any square on the board as the focal point rather than the Hero.</description>
+      <modifiers/>
+    </rule>
+    <rule id="13daf816-0ce2-38c3-b92d-1c66b997a6e0" name="MACHINE GUN" hidden="false">
+      <description>Mounted weapon. A MACHINE GUN mounted on the back of a truck may be used by a passenger, not the driver. The MACHINE GUN uses the Shoot value of the model firing it, and gives them a range of 1-10 and COVERING FIRE. Range and LOS are measured from the cab of the truck.</description>
+      <modifiers/>
+    </rule>
+    <rule id="b68d76d4-8ef6-faf4-fd14-31c2ad58be5d" name="MINI-ME" hidden="false">
+      <description>Any Soldier or Hero (not Vehicle) that is killed by this weapon is replaced with a Critters counter (in addition to scoring for the dead model, if appropriate to the scenario being played). These Critters counters act like normal and are worth 3 VPs each to the Martian player unless the scenario being played states otherwise. If the scenario doesn’t use VPs, the Martian player simply collects the counters and gloats!
+
+If you have some small, scale version of the model that was shrunk, feel free to use it as the Critters counter for fun.</description>
+      <modifiers/>
+    </rule>
+    <rule id="54454982-5945-c077-5665-774875426002" name="MUTANT" hidden="false">
+      <description>Some rules only work on MUTANTS.</description>
+      <modifiers/>
+    </rule>
+    <rule id="a926005c-d348-1a30-f8a8-d41f2764c652" name="NATURAL LEADER *" hidden="false">
+      <description>Complete the model’s activation as normal. Then, if you want to trigger this ability, spend a point of Heroics and nominate one other unactivated Hero (not Soldier) on the same side as the Hero and no more than 2 squares away. This model is now activated and is marked as such once they have completed their actions.
+
+As this additional activation is triggered by the original model’s Heroic ability, only the original Hero model counts for purposes of working out what that player can do this Turn.</description>
+      <modifiers/>
+    </rule>
+    <rule id="7dec2b58-3904-1380-1263-97d6de792700" name="PHEROMONE DISPENSER" hidden="false">
+      <description>A model with this ability counts as having the FOLLOW ME! ability, but can only use it on models with the MUTANT ability.</description>
+      <modifiers/>
+    </rule>
+    <rule id="b6cb9dfc-930e-9212-3f41-bb43645c5d53" name="RAPID FIRE" hidden="false">
+      <description>A model with this ability cannot AIM. A model with this ability makes a SHOOT attack as normal. If the first target is Rattled or killed then they may make an attack against a second enemy model in the same square as part of the same SHOOT action. Roll the dice again as if this was the first shot of the model’s Turn, but don’t count it as a separate action. Normal modifiers apply.</description>
+      <modifiers/>
+    </rule>
+    <rule id="3483bad6-2f66-b1a1-99af-965537a5ac80" name="SCANNER" hidden="false">
+      <description>As long as this model is alive, the owning player may look at any face down Critter/ Alien Secret counters on the board. Replace them face down without showing your opponent once you have done this.</description>
+      <modifiers/>
+    </rule>
+    <rule id="c1255543-50c8-56b8-cb01-be22411894c8" name="SCARED CIVILIAN" hidden="false">
+      <description>If a model with this rule starts a Human Turn within 2 squares of a Martian model then the
+Human player may choose to move it instead of one of his other models. No cards can be
+played on a SCARED CIVILIAN model. 
+
+A Scared Civilian always moves using the Scatter (3) rule (see page 15). If it is ever in a square with just Martian models then it has blundered into their hands and is immediately
+captured. If it is ever in a square with just Human models then it has been rescued.
+Either way, remove the model. If it is ever in a square containing both Human and Martian models, it will continue to follow its normal rules.
+
+Once removed, the figure counts as both an Alien Secrets and Critters counter (see page
+16) for the side that claimed it
+
+A model with this ability cannot be targeted and shot at individually, but can still be damaged by an attack that damages a whole square</description>
+      <modifiers/>
+    </rule>
+    <rule id="98a45f4e-07d0-8ff0-1a48-51121fc665d5" name="SHOCK STICK" hidden="false">
+      <description>If a model is hit by this weapon in a FIGHT and not killed, then they are Rattled.</description>
+      <modifiers/>
+    </rule>
+    <rule id="dc9e1594-ac3c-e415-a5e1-2691babcb451" name="SMASH!" hidden="false">
+      <description>A vehicle with this ability may, as its action for the Turn, move up to two squares and may go through any intervening walls as it does so. Any wall crossed by the vehicle as it moves is removed (along with any adjacent walls, just like in the Rubble Event Card).</description>
+      <modifiers/>
+    </rule>
+    <rule id="c2f21407-6a44-a470-5e56-9238d540a634" name="SMITE!" hidden="false">
+      <description>If a model with this ability uses their Fight stat rather than their Survive stat in a FIGHT then their opponent will be Rattled even if they win. This doesn’t matter much if the opponent is killed, but can turn the tide if they aren’t.
+
+If both models in a FIGHT have SMITE! then it has no effect.</description>
+      <modifiers/>
+    </rule>
+    <rule id="dc3178b7-10ff-b855-bf98-7f6572a72ac6" name="SNIPER" hidden="false">
+      <description>If the model AIMS when they SHOOT, they get +2 extra dice instead of the normal +1.</description>
+      <modifiers/>
+    </rule>
+    <rule id="0ed87983-8ee3-96d7-8585-ea4e16bb734f" name="SONIC" hidden="false">
+      <description>If the target is at half the listed range or less then the SONIC Weapon rolls +2 extra dice to SHOOT.</description>
+      <modifiers/>
+    </rule>
+    <rule id="246d11c3-c95a-63ba-d8ce-fb822fb84183" name="STAR-CROSSED LOVERS *" hidden="false">
+      <description>This model may never choose to MOVE more than 1 square away from their partner while they are alive. Models with this ability will be listed together in the rulebook.
+
+If the partner of a model with this ability is killed then they will go crazy. For every enemy model they kill they get a point of Heroics to spend that Turn. The limit of once per Turn on the second use of Heroics is lifted so that they can go on a killing spree.
+
+In scenarios that allow you to choose Heroes you must either take both STAR-CROSSED LOVERS or neither of them. They will not turn up alone. Each one still counts as a separate choice.</description>
+      <modifiers/>
+    </rule>
+    <rule id="0562ace8-bc63-6495-b121-4ae136dce09d" name="STEALTH" hidden="false">
+      <description>At the start of the game, after all models have been set up but before the first Turn, models with this ability can sneak a bit further forwards. Make a normal MOVE of up to 2 squares for each model with this ability. Then start the battle as normal.
+
+During the battle a model with this ability is so good at hiding that they cannot be the target of a SHOOT attack from more than 3 squares away. Card effects may attack STEALTHY models as normal. This rule does not apply if the attacker has a clear shot, even if Brazen is in play.</description>
+      <modifiers/>
+    </rule>
+    <rule id="00d1f309-0f4d-4327-69b8-0f0a5488de2f" name="STRATEGY" hidden="false">
+      <description>As long as a model with this ability is on the battlefield, the owning player may keep a hand of 5 cards instead of the normal 4. If the model is killed then the player must immediately discard down to 4 cards.</description>
+      <modifiers/>
+    </rule>
+    <rule id="bd141c6c-8b88-d1e3-c52e-3e3394fbd7a8" name="TOO MANY LATE NIGHTS *" hidden="false">
+      <description>A model with this ability may spend a point of Heroics to get a free MOVE of one square if it fails to kill its target with a SHOOT attack. This “duck back” MOVE must be taken immediately or not at all.</description>
+      <modifiers/>
+    </rule>
+    <rule id="ae2170fd-2282-47ab-ddb1-e585faa0f188" name="TRANSPORT (5)" hidden="false">
+      <description>This VEHICLE can carry up to (X) other models that do not have the VEHICLE rule.
+
+Models get into or out of a TRANSPORT by moving into or out of the square it is in using the normal movement rules. This is an exception to the normal rule that a VEHICLE fills up a square and blocks movement.
+
+Models that are being transported are called passengers. If a TRANSPORT moves then the passengers move along with it without using any actions of their own.
+
+Passengers may not be targeted by enemy shooting (it’s too difficult in the middle of a battlefield to get a clean shot off between vehicle panels/through windows etc) but they may still be affected by random or area effects which affect the vehicle they are in.
+
+A VEHICLE with the TRANSPORT ability may choose to start a battle with other models as passengers.
+
+If a TRANSPORT is destroyed then each passenger suffers a 3 dice 4+ SHOOT attack. Surviving passengers are placed on foot in the same square.</description>
+      <modifiers/>
+    </rule>
+    <rule id="2ecad8bd-6fa1-27c7-be84-3bddfae5cd51" name="UNCARING" hidden="false">
+      <description>Models with this ability never get Rattled, and if they are trampled by stampeding cattle they are killed.</description>
+      <modifiers/>
+    </rule>
+    <rule id="99c4a221-e34a-4b08-a3d4-350b32b91327" name="UNDERCOVER" hidden="false">
+      <description>Until this model makes a SHOOT or FIGHT action they cannot be attacked. This also means that they do not count as an enemy model when you are in the same square so you do not have to stop and FIGHT them.
+
+Card effects may attack this model as normal.
+
+Once the disguised model has attacked someone their true allegiance is revealed and they are treated as a normal enemy model for the rest of the battle.</description>
+      <modifiers/>
+    </rule>
+    <rule id="ff8de36b-0401-bf24-1de7-9a805f8de422" name="VEHICLE" hidden="false">
+      <description>VEHICLES cannot be Rattled.
+
+A VEHICLE counts as 6 models for purposes of filling up a square. A model may only move into the same square as a VEHICLE in order to become a passenger on a TRANSPORT.
+
+VEHICLES have the normal choice of actions, but move up to twice as many squares as smaller models for the appropriate action. Trucks cannot move over any walls or debris. Saucers and robots ignore scenery by flying or striding over it.
+
+VEHICLES cannot pick up Critters or Alien Secrets. They may also not be boarded by enemy models.</description>
+      <modifiers/>
+    </rule>
+    <rule id="561b1bf0-7299-7141-9496-ee70e9f4ca54" name="WEAPONS TEAM" hidden="false">
+      <description>A WEAPONS TEAM is made up of one or more figures mounted on a single base together with a heavy weapon. They count as a single model for all game rules. You may check LOS from any of the figures on the base. In addition, they get +1 dice for any SHOOT attack.</description>
+      <modifiers/>
+    </rule>
+    <rule id="3f6dfa55-9e7a-d8be-e824-9e6b8ecefb8e" name="YOU&apos;RE MINE" hidden="false">
+      <description>The model is equipped with a large containment tank that it can use to capture specimens for experiments after the battle. These unfortunates can also be sucked into the tank from a distance.
+
+At the end of each Round, a model with this ability may roll a single dice (separately) for each Critters counter in an adjacent square. On the roll of a 4+, the model captures that Critters counter. Unrevealed counters cannot be collected in this way.</description>
+      <modifiers/>
+    </rule>
+  </sharedRules>
+  <sharedProfiles>
+    <profile id="73fb6243-89ae-360c-fe47-50e8341c7be6" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Civilian Truck" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="-"/>
+        <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="-"/>
+        <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="5+"/>
+        <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="-"/>
+        <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="1"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="7641a4a1-8aa1-4a9b-2619-2cb76304cdcc" profileTypeId="8e2c8056-35c9-b4e4-0c61-4190eb0e1289" name="Freeze Ray" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="de96fd50-1ae5-61e7-c63b-2ba36481c553" name="Range" value="1-6"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="10d4e641-5630-ed82-d64e-264d8f26b120" profileTypeId="8e2c8056-35c9-b4e4-0c61-4190eb0e1289" name="Heat Ray" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="de96fd50-1ae5-61e7-c63b-2ba36481c553" name="Range" value="1-8"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="42dee134-5b35-be9e-07af-74f747f82e68" profileTypeId="8e2c8056-35c9-b4e4-0c61-4190eb0e1289" name="MACHINE GUN" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="de96fd50-1ae5-61e7-c63b-2ba36481c553" name="Range" value="1-10"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="42cd8469-6831-999d-f9a2-7569026d9f4b" profileTypeId="8e2c8056-35c9-b4e4-0c61-4190eb0e1289" name="MAIN GUN: AP" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="de96fd50-1ae5-61e7-c63b-2ba36481c553" name="Range" value="2-20"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="c639abf9-3097-0381-661e-9bbd62432dd3" profileTypeId="8e2c8056-35c9-b4e4-0c61-4190eb0e1289" name="MAIN GUN: HE" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="de96fd50-1ae5-61e7-c63b-2ba36481c553" name="Range" value="2-12"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="a16ee5c1-7340-fbf0-bb1b-207a2aefb6c3" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Massive Claw" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="-"/>
+        <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="5+"/>
+        <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="-"/>
+        <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="-"/>
+        <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="-"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="02233f00-bcea-b391-f505-d87f55e2d401" profileTypeId="a967d0f9-1d78-fa8e-f453-78020d534890" name="Military Truck" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="bf8f19f1-1d33-fbb1-87a7-80d1781db1d1" name="Shoot" value="-"/>
+        <characteristic characteristicId="c2598751-c978-e775-0520-d502ca596231" name="Fight" value="-"/>
+        <characteristic characteristicId="db6a39c1-aeb2-11fb-5b2e-f68972ad124e" name="Survive" value="4+"/>
+        <characteristic characteristicId="e3e20151-f9e3-e744-38ff-b8a2cb3dae19" name="Range" value="-"/>
+        <characteristic characteristicId="56a28b09-f594-bbb8-f3eb-cda052740f3f" name="Heroics" value="1"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+    <profile id="e4baa994-6827-af2b-641c-00cb7ef6b3e7" profileTypeId="8e2c8056-35c9-b4e4-0c61-4190eb0e1289" name="Shrink-Ray" hidden="false">
+      <characteristics>
+        <characteristic characteristicId="de96fd50-1ae5-61e7-c63b-2ba36481c553" name="Range" value="1-4"/>
+      </characteristics>
+      <modifiers/>
+    </profile>
+  </sharedProfiles>
+</catalogue>
